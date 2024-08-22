@@ -19,6 +19,7 @@
     "nuxt": "^3.12.3",
     "nuxt-icon": "^1.0.0-beta.7",
     "nuxt-lodash": "^2.5.3",
+    "pinia": "^2.2.2",
     "prisma": "^5.17.0",
     "stripe": "^16.2.0",
     "vue": "latest"
